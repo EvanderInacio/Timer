@@ -18,8 +18,7 @@ body{
   font-family: 'Roboto', sans-serif;
   line-height: 1.5rem;
   font-size: 1.3rem;
-  background: linear-gradient(to right, #360359, #7804c6, #2cbdb6, #19c6c8,
-   #001effde, #04106ede);
+  background: linear-gradient(to right, #4e0380, #7804c6, #001effde, #04106ede);
   background-size: 500% 100%;
   animation: background 5s ease-in-out infinite;
   animation-direction:alternate ;
@@ -71,7 +70,6 @@ button{
 button:hover{
   background: var(--btn-background);
 }
-
 button:active{
   background: var(--btn-active);
 }
