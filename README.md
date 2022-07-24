@@ -12,7 +12,6 @@ Cronômetro.
 
 - site final: [Timer](https://timer-dusky-five.vercel.app/) 
 
-<br>
 
 ## 🚀 Tecnologias
 
